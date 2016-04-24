@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Make life eaiser. Especially, when you compare with two files which contain many lines, it is hard to find the differences by jumping your eyes from one to another.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It saves a lot of time to retrieving the old version of the code,
+    when you have noticed that something wrong with the new version of
+    the code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:
+    	1. You can choose whenever to commit.
+    	2. Save space for some unnessariy commits.
+    Cons: 
+    	1.Sometimes, people my forget to commit by themselves.
+    	2.It's too late to commit when you notice you should commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Unlike Google Docs, git treats the data more like a stream of snapshots according to the git offcial website. Git takes a pictures of the files and stores a reference to the snapshot when you commit your files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log: view the history files in macro way. And get know the commit ID.
+    git diff: compare with two in micro way, see excactly detail. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    This allows you try critial features, you still can get back of your old version if new one dose not work.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Try using git for my next projects.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+    Save time to retrieving and comparing file effectively.
