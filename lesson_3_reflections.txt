@@ -29,4 +29,4 @@ using Git or Github.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    To make changes in another branch could prevent to mess up the master version. Using another branch allows us to collaborate with others, get feed back before makes new version works safely and accurately.
